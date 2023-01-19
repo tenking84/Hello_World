@@ -1,0 +1,15 @@
+/home/tenking/Документы/GB_си_шарп/HelloConcole/bin/Debug/net6.0/HelloConcole
+/home/tenking/Документы/GB_си_шарп/HelloConcole/bin/Debug/net6.0/HelloConcole.deps.json
+/home/tenking/Документы/GB_си_шарп/HelloConcole/bin/Debug/net6.0/HelloConcole.runtimeconfig.json
+/home/tenking/Документы/GB_си_шарп/HelloConcole/bin/Debug/net6.0/HelloConcole.dll
+/home/tenking/Документы/GB_си_шарп/HelloConcole/bin/Debug/net6.0/ref/HelloConcole.dll
+/home/tenking/Документы/GB_си_шарп/HelloConcole/bin/Debug/net6.0/HelloConcole.pdb
+/home/tenking/Документы/GB_си_шарп/HelloConcole/obj/Debug/net6.0/HelloConcole.csproj.AssemblyReference.cache
+/home/tenking/Документы/GB_си_шарп/HelloConcole/obj/Debug/net6.0/HelloConcole.GeneratedMSBuildEditorConfig.editorconfig
+/home/tenking/Документы/GB_си_шарп/HelloConcole/obj/Debug/net6.0/HelloConcole.AssemblyInfoInputs.cache
+/home/tenking/Документы/GB_си_шарп/HelloConcole/obj/Debug/net6.0/HelloConcole.AssemblyInfo.cs
+/home/tenking/Документы/GB_си_шарп/HelloConcole/obj/Debug/net6.0/HelloConcole.csproj.CoreCompileInputs.cache
+/home/tenking/Документы/GB_си_шарп/HelloConcole/obj/Debug/net6.0/HelloConcole.dll
+/home/tenking/Документы/GB_си_шарп/HelloConcole/obj/Debug/net6.0/ref/HelloConcole.dll
+/home/tenking/Документы/GB_си_шарп/HelloConcole/obj/Debug/net6.0/HelloConcole.pdb
+/home/tenking/Документы/GB_си_шарп/HelloConcole/obj/Debug/net6.0/HelloConcole.genruntimeconfig.cache
